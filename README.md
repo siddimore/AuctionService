@@ -1,5 +1,5 @@
 # AuctionService
-NFT Auction Service with Auction Store and Bidder. Auction Service has API's which are accessible only to `Project Administrators` which Bidder Service exposes API to Create Bids.
+NFT Auction Service with Auction Store and Bidder. Auction Service has API's which are accessible only to `Project Administrators` while Bidder Service exposes API for users.
 
 Auction Service API's ->
 1. Create Auction
